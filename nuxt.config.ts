@@ -5,5 +5,5 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@nuxt/ui", "nuxt-icons", "@nuxt/fonts"],
 });

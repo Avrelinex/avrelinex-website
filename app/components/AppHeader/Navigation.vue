@@ -1,6 +1,6 @@
 <template>
   <nav class="flex flex-row gap-5 font-medium">
-    <NuxtLink v-for="link in links" :key="link.to" :link="link">
+    <NuxtLink v-for="link in links" :key="link.to" :to="link.to">
       {{ link.name }}
     </NuxtLink>
   </nav>

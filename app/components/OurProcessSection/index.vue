@@ -1,7 +1,7 @@
 <template>
   <div
     class="bg-white w-full px-32 py-16 flex flex-row gap-8"
-    id="why-us"
+    id="our-process"
   >
     <div class="flex flex-col justify-between basis-96">
       <div class="flex flex-col items-start">

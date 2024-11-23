@@ -37,7 +37,7 @@ import OurProcessItem from './OurProcessItem.vue';
 const steps = [
   {
     name: "Discover",
-    description: "We start by understanding your goals and challenges, building a solid foundation for a solution that’s perfect for you.",
+    description: "We start by understanding your goals and challenges, building a solid foundation for a solution that's perfect for you.",
     icon: "process-discover",
   },
   {

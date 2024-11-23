@@ -15,7 +15,7 @@ import ServicesSection from "~/components/ServicesSection";
 import WhyUsSection from "~/components/WhyUsSection";
 import OurProcessSection from "~/components/OurProcessSection";
 import FaqSection from "~/components/FaqSection";
-import CtaSection from "~/components/CtaSection.vue";
+import CtaSection from "~/components/CtaSection";
 
 definePageMeta({
   colorMode: "light",

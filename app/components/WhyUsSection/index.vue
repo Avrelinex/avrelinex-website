@@ -39,7 +39,7 @@ const benefits = [
   },
   {
     name: "Ongoing Support",
-    description: "Our commitment doesn’t end at launch. We provide continuous support to keep your systems running smoothly and evolving to meet your future needs.",
+    description: "Our commitment doesn't end at launch. We provide continuous support to keep your systems running smoothly and evolving to meet your future needs.",
     icon: "why-us-support",
   },
 ]

@@ -7,11 +7,11 @@
       <span class="text-[#1C1715] font-medium text-5xl leading-normal">
         Why Us?
       </span>
-      <span class="text-[#47423F] text-sm">We're here to turn your challenges into opportunities with personalized solutions and ongoing support.</span>
+      <span class="text-[#47423F] text-xl">We're here to turn your challenges into opportunities with personalized solutions and ongoing support.</span>
       <OutlineCtaButton class="mt-8"/>
     </div>
 
-    <div class="grid grid-cols-3 gap-8">
+    <div class="grid grid-cols-3 gap-6">
       <WhyUsItem
         v-for="benefit in benefits"
         :key="benefit.name"

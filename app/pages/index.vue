@@ -13,7 +13,7 @@
 import HeroSection from "~/components/HeroSection";
 import ServicesSection from "~/components/ServicesSection";
 import WhyUsSection from "~/components/WhyUsSection";
-import OurProcessSection from "~/components/OurProcessSection.vue";
+import OurProcessSection from "~/components/OurProcessSection";
 import CtaSection from "~/components/CtaSection.vue";
 import FaqSection from "~/components/FaqSection.vue";
 

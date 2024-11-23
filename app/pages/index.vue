@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import HeroSection from "~/components/HeroSection.vue";
+import HeroSection from "~/components/HeroSection";
 import WhyUsSection from "~/components/WhyUsSection.vue";
 import ServicesSection from "~/components/ServicesSection.vue";
 import OurProcessSection from "~/components/OurProcessSection.vue";

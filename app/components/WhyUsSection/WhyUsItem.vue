@@ -4,7 +4,7 @@
       <nuxt-icon filled :name="icon" class="h-8" />
     </div>
     <span class="text-[#1C1715] text-lg font-semibold">{{ name }}</span>
-    <span class="text-[#47423F] text-sm">{{ description }}</span>
+    <span class="text-[#47423F]">{{ description }}</span>
   </div>
 </template>
 

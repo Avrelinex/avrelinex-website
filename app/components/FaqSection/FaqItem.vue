@@ -18,14 +18,14 @@
       </span>
       <nuxt-icon
         name="cross"
-        class="h-4 w-4 text-[#47423F] transition-all duration-300"
+        class="h-3 md:h-4 shrink-0 text-[#47423F] transition-all duration-300"
         :class="{
           'text-[#F26A1B] rotate-[-135deg]': expanded,
         }"
       />
     </div>
     <span
-      class="text-[#47423F] text-sm duration-500"
+      class="text-[#47423F] duration-500"
       :class="{
         'hidden': !expanded,
       }"

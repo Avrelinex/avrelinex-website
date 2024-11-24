@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-[#FAF7F5] section-container flex flex-row justify-center items-center gap-8"
+    class="bg-[#FAF7F5] section-container flex flex-col lg:flex-row justify-center items-center gap-8"
     id="why-us"
   >
     <div class="flex flex-col items-start">
@@ -8,7 +8,7 @@
         Why Us?
       </span>
       <span class="text-[#47423F] text-xl">We're here to turn your challenges into opportunities with personalized solutions and ongoing support.</span>
-      <OutlineCtaButton class="mt-8"/>
+      <OutlineCtaButton class="mt-4 lg:mt-8"/>
     </div>
 
     <div class="grid grid-cols-3 gap-6">

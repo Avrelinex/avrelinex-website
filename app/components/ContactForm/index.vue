@@ -1,8 +1,11 @@
 <template>
   <div
     popover id="contact-form"
-    class="text-[#1C1715] backdrop:backdrop-blur-sm backdrop:bg-[#FAF7F5] backdrop:bg-opacity-30 bg-white border-[#AC9E96] border px-16 py-12 shadow-lg rounded-2xl min-w-[35rem]"
+    class="text-[#1C1715] backdrop:backdrop-blur-sm backdrop:bg-[#FAF7F5] backdrop:bg-opacity-30 bg-white border-[#AC9E96] border px-8 py-4 md:px-16 md:py-12 shadow-lg rounded-2xl md:min-w-[35rem]"
   >
+    <button class="absolute flex top-4 right-4 md:top-12 md:right-16" popovertarget="contact-form">
+      <nuxt-icon name="cross" class="h-3.5 rotate-45" />
+    </button>
     <form
       action="https://formsubmit.co/2fed54c3af4bcf37988b7777d5f4adf5"
       method="POST"

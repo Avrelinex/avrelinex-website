@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-[#FAF7F5] w-full px-32 py-16 flex flex-row justify-center items-center gap-8"
+    class="bg-[#FAF7F5] section-container flex flex-row justify-center items-center gap-8"
     id="why-us"
   >
     <div class="flex flex-col items-start">

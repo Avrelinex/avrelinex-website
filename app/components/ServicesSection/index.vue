@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-[#FAF7F5] w-full px-32 py-16 flex flex-col justify-center items-center gap-8"
+    class="bg-[#FAF7F5] section-container flex flex-col justify-center items-center gap-8"
     id="services"
   >
     <span class="text-[#1C1715] font-medium text-5xl leading-normal">

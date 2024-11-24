@@ -6,6 +6,18 @@
 @import "assets/styles/typed.scss";
 
 .audience {
-  @include typed("Universities", "Schools", "EdTech Startups", "Corporate Training Programs", "Online Learning Platforms", (delete: .05), (caret-width: 0.25rem));
+  @include typed(
+    "Universities",
+    "Schools",
+    "EdTech Startups",
+    "Corporate Training",
+    "Online Learning",
+    (
+      delete: 0.05,
+    ),
+    (
+      caret-width: 0.25rem,
+    )
+  );
 }
 </style>

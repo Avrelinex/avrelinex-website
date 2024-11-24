@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-white w-full px-32 py-16 flex flex-col justify-center items-center gap-8"
+    class="bg-white section-container flex flex-col justify-center items-center gap-8"
     id="faq"
   >
     <span class="text-[#1C1715] font-medium text-5xl leading-normal">

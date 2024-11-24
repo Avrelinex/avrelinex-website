@@ -22,4 +22,8 @@ html {
   width: 100%;
   height: 100%;
 }
+
+.section-container {
+  @apply w-full py-16 lg:px-32 2xl:px-[calc((100%-1280px)/2)]
+}
 </style>

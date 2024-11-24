@@ -14,4 +14,8 @@
 definePageMeta({
   colorMode: "light",
 });
+
+useSeoMeta({
+  title: "Avrelinex",
+});
 </script>

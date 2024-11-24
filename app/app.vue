@@ -24,6 +24,6 @@ html {
 }
 
 .section-container {
-  @apply w-full py-16 md:px-16 lg:px-32 2xl:px-[calc((100%-1280px)/2)]
+  @apply w-full py-8 px-8 md:py-16 md:px-16 lg:px-32 2xl:px-[calc((100%-1280px)/2)]
 }
 </style>

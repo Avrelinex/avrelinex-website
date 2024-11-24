@@ -3,7 +3,7 @@
     class="bg-white section-container flex flex-col justify-center items-center gap-8"
     id="faq"
   >
-    <span class="text-[#1C1715] font-medium text-5xl leading-normal">
+    <span class="text-[#1C1715] font-medium text-5xl leading-normal text-center">
       Frequently Asked Questions
     </span>
 

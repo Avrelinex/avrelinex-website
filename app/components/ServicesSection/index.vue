@@ -7,7 +7,7 @@
       Services
     </span>
 
-    <div class="grid grid-cols-3 gap-8">
+    <div class="grid md:grid-cols-3 gap-8">
       <ServiceItem
         v-for="service in services"
         :key="service.name"

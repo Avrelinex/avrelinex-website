@@ -11,7 +11,7 @@
       <OutlineCtaButton class="mt-4 lg:mt-8"/>
     </div>
 
-    <div class="grid grid-cols-3 gap-6">
+    <div class="grid md:grid-cols-3 gap-6">
       <WhyUsItem
         v-for="benefit in benefits"
         :key="benefit.name"

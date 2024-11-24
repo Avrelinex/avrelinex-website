@@ -4,7 +4,7 @@
   >
     <div class="flex flex-col justify-center items-center">
       <span class="text-[#1C1715] font-medium text-5xl leading-normal">
-        Software development for <span class="text-[#F26A1B]">Universities</span>
+        Software development for <AnimatedAudience />
       </span>
       <span class="text-xl leading-normal">
         We make sure that your expectations are not only met but <span class="text-[#E81551]">exceeded</span>
@@ -16,4 +16,5 @@
 
 <script setup lang="ts">
 import LearnMoreButton from "./LearnMoreButton.vue";
+import AnimatedAudience from "./AnimatedAudience.vue";
 </script>

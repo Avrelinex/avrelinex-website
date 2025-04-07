@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex flex-row gap-5 font-medium">
+  <nav class="flex flex-row gap-5 font-medium text-black">
     <NuxtLink v-for="link in links" :key="link.to" :to="link.to">
       {{ link.name }}
     </NuxtLink>
@@ -10,20 +10,23 @@
 const links = [
   {
     name: "Services",
-    to: "#services",
+    to: "/#services",
   },
   {
     name: "Why Us",
-    to: "#why-us",
+    to: "/#why-us",
   },
   {
     name: "Our Process",
-    to: "#our-process",
+    to: "/#our-process",
   },
   {
     name: "FAQ",
-    to: "#faq",
+    to: "/#faq",
+  },
+  {
+    name: "Privacy Policy",
+    to: "/privacy-policy",
   },
 ];
-
 </script>

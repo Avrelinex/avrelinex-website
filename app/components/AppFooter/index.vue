@@ -7,7 +7,7 @@
         <nuxt-icon name="logo" filled class="h-8" />
         <span
           class="font-bold text-sm text-center md:text-left md:text-base text-black"
-          >&copy; 2025 Avrelinex sp. z o. o. All rights reserved.</span
+          >&copy; 2026 Avrelinex sp. z o. o. All rights reserved.</span
         >
       </div>
       <a href="https://www.linkedin.com/company/avrelinex/" target="_blank">
